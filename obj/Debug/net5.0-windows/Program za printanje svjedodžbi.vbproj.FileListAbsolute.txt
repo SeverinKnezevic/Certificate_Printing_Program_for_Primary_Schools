@@ -1,0 +1,67 @@
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.exe
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.deps.json
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.runtimeconfig.json
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.runtimeconfig.dev.json
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.dll
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbprojAssemblyReference.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Printanje1.resources
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbproj.GenerateResource.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.AssemblyInfoInputs.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.AssemblyInfo.vb
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbproj.CoreCompileInputs.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.dll
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\ref\Program za printanje svjedodžbi.dll
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.pdb
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.genruntimeconfig.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\bin\Debug\net5.0-windows\ref\Program za printanje svjedodžbi.dll
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.pdb
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Printanje2.resources
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbprojAssemblyReference.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbproj.ResolveComReference.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\WinFormsApp1.Resources.resources
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\WinFormsApp1.Printanje1.resources
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\WinFormsApp1.Printanje2.resources
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbproj.GenerateResource.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.AssemblyInfoInputs.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.AssemblyInfo.vb
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbproj.CoreCompileInputs.cache
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.dll
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\ref\Program za printanje svjedodžbi.dll
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.pdb
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.exe
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.deps.json
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.runtimeconfig.json
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.runtimeconfig.dev.json
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.dll
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\ref\Program za printanje svjedodžbi.dll
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.pdb
+C:\Users\Severin\Desktop\Svjedodžbe Osnovne škole\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.genruntimeconfig.cache
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.exe
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.deps.json
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.runtimeconfig.json
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.runtimeconfig.dev.json
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.dll
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\ref\Program za printanje svjedodžbi.dll
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\bin\Debug\net5.0-windows\Program za printanje svjedodžbi.pdb
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbprojAssemblyReference.cache
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbproj.ResolveComReference.cache
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\WinFormsApp1.Resources.resources
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\WinFormsApp1.Printanje1.resources
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\WinFormsApp1.Printanje2.resources
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbproj.GenerateResource.cache
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.AssemblyInfoInputs.cache
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.AssemblyInfo.vb
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.vbproj.CoreCompileInputs.cache
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.dll
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\ref\Program za printanje svjedodžbi.dll
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.pdb
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\obj\Debug\net5.0-windows\Program za printanje svjedodžbi.genruntimeconfig.cache
