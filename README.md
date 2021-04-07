@@ -8,3 +8,5 @@ TOOLS AND TECHNOLOGIES:
    - IDE: MS Visual Studio.
    - GUI (Graphical user interface) and graphic Tools:  Adobe Photoshop and  Visual Studio (Windows Forms Designer).
    - Template and graphic for printing:  Microsoft Word.
+
+G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\ ...all file 
