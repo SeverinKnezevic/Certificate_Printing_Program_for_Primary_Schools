@@ -3,9 +3,8 @@ Project program for creating and printing Certificate for Primary Schools in Bos
 
 Functional and simple program!
 
-TOOLS AND TECHNOLOGIES:
-
-    - Programming languages: Visual Basic.
-    - IDE: MS Visual Studio.
-    - GUI (Graphical user interface) and graphic Tools: Adobe Photoshop and Visual Studio (Windows Forms Designer).
-    - Template and graphic for printing: Microsoft Word.
+TOOLS AND TECHNOLOGIES: 
+   - Programming languages: Visual Basic.
+   - IDE: MS Visual Studio.
+   - GUI (Graphical user interface) and graphic Tools:  Adobe Photoshop and  Visual Studio (Windows Forms Designer).
+   - Template and graphic for printing:  Microsoft Word.
