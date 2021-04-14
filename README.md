@@ -10,3 +10,12 @@ TOOLS AND TECHNOLOGIES:
    - Template and graphic for printing:  Microsoft Word.
 
 G:\PROJEKTI 2021\Svjedodžbe Osnovne škole (Visual Basic)\Svjedodžbe Osnovne škole\ ...all file 
+
+Program interface:
+![PZPK6](https://user-images.githubusercontent.com/81822988/114684771-89fd0f00-9d11-11eb-9456-9c8e2c8e7db4.png)
+
+![PzPP1](https://user-images.githubusercontent.com/81822988/114684766-879ab500-9d11-11eb-8e96-c15d16620be0.png)
+
+![PZPK5](https://user-images.githubusercontent.com/81822988/114684758-849fc480-9d11-11eb-88c0-81e919c9547b.png)
+
+![PzPK4](https://user-images.githubusercontent.com/81822988/114684741-8073a700-9d11-11eb-99f5-6ca5baece34f.png)
