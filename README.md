@@ -20,5 +20,8 @@ Program interface:
 ![PZPK5](https://user-images.githubusercontent.com/81822988/114684758-849fc480-9d11-11eb-88c0-81e919c9547b.png)
 
 ![PzPK4](https://user-images.githubusercontent.com/81822988/114684741-8073a700-9d11-11eb-99f5-6ca5baece34f.png)
+
+![svjedodžbe](https://user-images.githubusercontent.com/81822988/114689897-7acc9000-9d16-11eb-9851-b1f74b455d82.jpg)
+
 ****
 ***©SeverinKnezevic*** 
