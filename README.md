@@ -21,4 +21,4 @@ Program interface:
 
 ![PzPK4](https://user-images.githubusercontent.com/81822988/114684741-8073a700-9d11-11eb-99f5-6ca5baece34f.png)
 ****
-***  ©SeverinKnezevic *** 
+***©SeverinKnezevic*** 
