@@ -24,4 +24,9 @@ Program interface:
 ![svjedodžbe](https://user-images.githubusercontent.com/81822988/114689897-7acc9000-9d16-11eb-9851-b1f74b455d82.jpg)
 
 ****
-***©SeverinKnezevic*** 
+
+*©SeverinKnezevic*
+
+_Email: knezevicseverin@gmail.com_
+
+****
